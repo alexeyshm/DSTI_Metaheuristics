@@ -1,6 +1,6 @@
 # Shifted Sphere Function
 
-The function is convex and has only one minumum value. So the best choise is to use a gradient based algorithm for optimization.
+The function is coninuous and convex and has only one minumum value. So the best choise is to use a gradient based algorithm for optimization.
 We use scipy optimizer with the Broyden-Fletcher-Goldfarb-Shanno algorithm with default paramters.
 The algorithm should be able to estimate the gradient itself.
 
