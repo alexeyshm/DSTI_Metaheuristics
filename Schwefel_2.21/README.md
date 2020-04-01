@@ -1,5 +1,5 @@
 ## Metaheuristics
-## Schwefel's Problem 2.21
+### Schwefel's Problem 2.21
 
 The function is not smooth, second-order derivative will be 0.
 It restricts selection of optimization algprithms we could apply.
