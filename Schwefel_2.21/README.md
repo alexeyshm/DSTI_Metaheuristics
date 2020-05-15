@@ -2,7 +2,7 @@
 ### Schwefel's Problem 2.21
 
 The function is not smooth, second-order derivative will be 0.
-It restricts selection of optimization algprithms we could apply.
+It restricts selection of optimization algщrithms we could apply.
 Usage of scimplex algorythm doesn't bring satysfactory results.
 
 The chosen algorithm is BFGS, using first-order derivatives. 
